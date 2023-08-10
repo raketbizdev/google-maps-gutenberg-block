@@ -1,0 +1,19 @@
+{
+  "name": "google-maps-gutenberg-block",
+  "version": "1.0.0",
+  "description": "A Gutenberg block plugin for embedding Google Maps using a provided address.",
+  "main": "assets/js/block.js",
+  "scripts": {
+    "start": "wp-scripts start",
+    "build": "wp-scripts build"
+  },
+  "author": {
+    "name": "Ruel Nopal",
+    "email": "rakethost@gmail.com",
+    "url": "https://rnopal.com"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@wordpress/scripts": "^26.9.0"
+  }
+}

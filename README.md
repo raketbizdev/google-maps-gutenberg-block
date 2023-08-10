@@ -2,6 +2,10 @@
 
 A WordPress Gutenberg block plugin to embed Google Maps into your posts and pages.
 
+## Screenshots
+
+![Google Map Output](./assets/images/screenshot_1.png)
+
 ## Directory Structure
 
 ```bash
@@ -11,6 +15,11 @@ A WordPress Gutenberg block plugin to embed Google Maps into your posts and page
 │   ├── build
 │   │   ├── block.build.asset.php
 │   │   └── block.build.js
+│   ├── images
+│   │   ├── screenshot_1.png
+│   │   ├── screenshot_2.png
+│   │   ├── screenshot_3.png
+│   │   └── screenshot_4.png
 │   └── js
 │       ├── block
 │       │   ├── attributes.js

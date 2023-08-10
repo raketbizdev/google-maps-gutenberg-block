@@ -4,25 +4,27 @@ A WordPress Gutenberg block plugin to embed Google Maps into your posts and page
 
 ## Directory Structure
 
-```
+```bash
 .
+├── README.md
 ├── assets
-│ ├── build
-│ │ ├── block.build.asset.php
-│ │ └── block.build.js
-│ └── js
-│ ├── block
-│ │ ├── attributes.js
-│ │ ├── edit.js
-│ │ ├── index.js
-│ │ └── save.js
-│ └── block.js
+│   ├── build
+│   │   ├── block.build.asset.php
+│   │   └── block.build.js
+│   └── js
+│       ├── block
+│       │   ├── attributes.js
+│       │   ├── edit.js
+│       │   ├── index.js
+│       │   └── save.js
+│       └── block.js
 ├── google-maps-gutenberg-block.php
 ├── includes
-│ ├── class-block.php
-│ └── class-settings.php
+│   ├── class-block.php
+│   └── class-settings.php
 ├── package-lock.json
 ├── package.json
+├── readme.txt
 └── webpack.config.js
 ```
 
